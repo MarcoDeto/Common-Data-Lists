@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "Euro",
+    "Code": "EUR",
+    "Symbol": "€"
+  },
+  {
+    "Name": "Austrialian dollar",
+    "Code": "AUD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Brazialian real",
+    "Code": "BRL",
+    "Symbol": "R$"
+  },
+  {
+    "Name": "bulgarian lev",
+    "Code": "BGN",
+    "Symbol": "Лв."
+  },
+  {
+    "Name": "Canadian dollar",
+    "Code": "CAD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Chilean peso",
+    "Code": "CLP",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Chinese Yuan",
+    "Code": "CNY",
+    "Symbol": "¥"
+  },
+  {
+    "Name": "Colombian peso",
+    "Code": "COP",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Croatian kuna",
+    "Code": "HRK",
+    "Symbol": "kn"
+  },
+  {
+    "Name": "Czech koruna",
+    "Code": "CZK",
+    "Symbol": "Kč"
+  },
+  {
+    "Name": "Danish Krone",
+    "Code": "DKK",
+    "Symbol": "kr"
+  },
+  {
+    "Name": "Emirati dirham",
+    "Code": "AED",
+    "Symbol": "د.إ"
+  },
+  {
+    "Name": "Hong kong dollar",
+    "Code": "HKD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Hungarian fiorint",
+    "Code": "HUF",
+    "Symbol": "Ft"
+  },
+  {
+    "Name": "Indian rupee",
+    "Code": "INR",
+    "Symbol": "₹"
+  },
+  {
+    "Name": "Israeli new shekel",
+    "Code": "ILS",
+    "Symbol": "₪"
+  },
+  {
+    "Name": "Japanese yen",
+    "Code": "JPY",
+    "Symbol": "¥"
+  },
+  {
+    "Name": "Malaysian ringgit",
+    "Code": "MYR",
+    "Symbol": "RM"
+  },
+  {
+    "Name": "Mexican peso",
+    "Code": "MXN",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Maroccan dirham",
+    "Code": "MAD",
+    "Symbol": "MAD"
+  },
+  {
+    "Name": "New Taiwan dollar",
+    "Code": "TWD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "New Zealand dollar",
+    "Code": "NZD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Norwegian krone",
+    "Code": "NOK",
+    "Symbol": "kr"
+  },
+  {
+    "Name": "Peruvian sol",
+    "Code": "PEN",
+    "Symbol": "S/"
+  },
+  {
+    "Name": "Philippine peso",
+    "Code": "PHP",
+    "Symbol": "₱"
+  },
+  {
+    "Name": "Polish zloty",
+    "Code": "PLN",
+    "Symbol": "zł"
+  },
+  {
+    "Name": "Pound sterling",
+    "Code": "GBP",
+    "Symbol": "£"
+  },
+  {
+    "Name": "Romanian leu",
+    "Code": "RON",
+    "Symbol": "lei"
+  },
+  {
+    "Name": "Saudi Arabian riyal",
+    "Code": "SAR",
+    "Symbol": "SR"
+  },
+  {
+    "Name": "Singapore dollar",
+    "Code": "SGD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "South Africa rand",
+    "Code": "ZAR",
+    "Symbol": "R"
+  },
+  {
+    "Name": "South Korean won",
+    "Code": "KRW",
+    "Symbol": "₩"
+  },
+  {
+    "Name": "Swedish Krona",
+    "Code": "SEK",
+    "Symbol": "kr"
+  },
+  {
+    "Name": "Swiss franc",
+    "Code": "CHF",
+    "Symbol": "CHF"
+  },
+  {
+    "Name": "Thai baht",
+    "Code": "THB",
+    "Symbol": "฿"
+  },
+  {
+    "Name": "Turkish lira",
+    "Code": "TRY",
+    "Symbol": "₺"
+  },
+  {
+    "Name": "United States dollar",
+    "Code": "USD",
+    "Symbol": "$"
+  },
+  {
+    "Name": "Uruguayan peso",
+    "Code": "UYU",
+    "Symbol": "$U"
+  }
+]

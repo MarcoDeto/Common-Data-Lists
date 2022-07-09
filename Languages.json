@@ -1,0 +1,116 @@
+[
+  {
+    "Name": "繁體中文",
+    "Code": "cn-CN",
+    "Country": "China",
+    "Emoji": "🇨🇳"
+  },
+  {
+    "Name": "Danish",
+    "Code": "dk-DK",
+    "Country": "Denmark",
+    "Emoji": "🇩🇰"
+  },
+  {
+    "Name": "Deutsch",
+    "Code": "de-DE",
+    "Country": "Germany",
+    "Emoji": "🇩🇪"
+  },
+  {
+    "Name": "English",
+    "Code": "en-GB",
+    "Country": "United Kingdom",
+    "Emoji": "🇬🇧"
+  },
+  {
+    "Name": "English",
+    "Code": "en-US",
+    "Country": "United States",
+    "Emoji": "🇺🇸"
+  },
+  {
+    "Name": "Español",
+    "Code": "es-ES",
+    "Country": "Spain",
+    "Emoji": "🇪🇸"
+  },
+  {
+    "Name": "Français",
+    "Code": "fr-FR",
+    "Country": "France",
+    "Emoji": "🇫🇷"
+  },
+  {
+    "Name": "Magyar",
+    "Code": "hu-HU",
+    "Country": "Hungary",
+    "Emoji": "🇭🇺"
+  },
+  {
+    "Name": "हिन्दी",
+    "Code": "in-IN",
+    "Country": "India",
+    "Emoji": "🇮🇳"
+  },
+  {
+    "Name": "Italiano",
+    "Code": "it-IT",
+    "Country": "Italy",
+    "Emoji": "🇮🇹"
+  },
+  {
+    "Name": "日本",
+    "Code": "jp-JP",
+    "Country": "Japan",
+    "Emoji": "🇯🇵"
+  },
+  {
+    "Name": "Norsk",
+    "Code": "no-NO",
+    "Country": "Norway",
+    "Emoji": "🇳🇴"
+  },
+  {
+    "Name": "Polski",
+    "Code": "pl-PL",
+    "Country": "Poland",
+    "Emoji": "🇵🇱"
+  },
+  {
+    "Name": "Português",
+    "Code": "pt-PT",
+    "Country": "Portugal",
+    "Emoji": "🇵🇹"
+  },
+  {
+    "Name": "Română",
+    "Code": "ro-RO",
+    "Country": "Romania",
+    "Emoji": "🇷🇴"
+  },
+  {
+    "Name": "Русский",
+    "Code": "ru-RU",
+    "Country": "Russia",
+    "Emoji": "🇷🇺"
+  },
+  {
+    "Name": "Svenska",
+    "Code": "se-SE",
+    "Country": "Sweden",
+    "Emoji": "🇸🇪"
+  },
+  {
+    "Name": "Türkçe",
+    "Code": "tr-TR",
+    "Country": "Turkey",
+    "Emoji": "🇹🇷"
+  },
+  {
+    "Name": "Tiếng Việt",
+    "Code": "vn-VN",
+    "Country": "Vietnam",
+    "Emoji": "🇻🇳"
+  }
+]
